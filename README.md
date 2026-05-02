@@ -147,15 +147,19 @@ run the notebook
 ## Project Highlights
 
 ✔ End-to-end ML pipeline
+
 ✔ Multi-model comparison
+
 ✔ Business-focused predictions
+
 ✔ Risk-based customer segmentation
+
 ✔ High recall for churn detection
 
 
 ## 👩‍💻 Author
 
-**Varshitha Darmini**
-AI/ML Student
+Varshitha Darmini
+
 
 🔗 GitHub: https://github.com/VarshithaDarmini
