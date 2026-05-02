@@ -22,7 +22,7 @@ The system uses multiple machine learning models and selects the best-performing
 
 ## Machine Learning Approach
 
-### 🔹 Models Used
+### Models Used
 
 * Logistic Regression
 * Random Forest
@@ -81,7 +81,7 @@ The model predicts churn probability and segments customers into risk levels:
 
 ## Dataset
 
-* 📌 Dataset: IBM Telco Customer Churn Dataset
+* Dataset: IBM Telco Customer Churn Dataset
 * Source: Kaggle
 * Features include:
 
@@ -137,7 +137,7 @@ run the notebook
 
 ## Output Files
 
-* `churn_predictions.csv` → Full prediction dataset
+* WA_Fn-UseC_-Telco-Customer-Churn.csv → Full prediction dataset
 * Contains:
 
   * Actual vs Predicted
@@ -157,7 +157,7 @@ run the notebook
 ✔ High recall for churn detection
 
 
-## 👩‍💻 Author
+## Author
 
 Varshitha Darmini
 
